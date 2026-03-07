@@ -1,5 +1,7 @@
 D:\redis-demo\src\main\java\com\example\App.java
+D:\redis-demo\src\main\java\com\example\LeaderboardController.java
 D:\redis-demo\src\main\java\com\example\LeaderboardRequest.java
+D:\redis-demo\src\main\java\com\example\LeaderboardService.java
 D:\redis-demo\src\main\java\com\example\PlayerRank.java
 D:\redis-demo\src\main\java\com\example\RedisController.java
 D:\redis-demo\src\main\java\com\example\RedisResponse.java
